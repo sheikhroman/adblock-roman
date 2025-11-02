@@ -1,0 +1,17 @@
+manifest.json
+
+background.js
+
+rules.json
+
+content_common.js
+
+content_youtube.js
+
+content_facebook.js
+
+content_instagram.js
+
+popup.html
+
+popup.js
